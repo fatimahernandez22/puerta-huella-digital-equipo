@@ -1,4 +1,5 @@
 # puerta-huella-digital-equipo
 puerta
 
-Fátima Hernázndez
+Fátima Hernández
+Daniel Avila Pineda
