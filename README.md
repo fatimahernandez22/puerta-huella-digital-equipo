@@ -1,5 +1,6 @@
 # puerta-huella-digital-equipo
 puerta
+
 INDICE
 
 INTRODUCCIÓN
@@ -18,7 +19,7 @@ OBJETIVOS
 
 
 
-INTRODUCC
+INTRODUCCION
 
 Con este proyecto nosotros lo que realizaremos es una puerta con un centro de seguridad el cual será un detector de huella digital con el que nos dará una gran seguridad ya que será programada para puertas ya sea para casa,oficina,bancos,etc
 
